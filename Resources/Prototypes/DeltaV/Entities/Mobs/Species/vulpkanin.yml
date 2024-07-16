@@ -108,3 +108,5 @@
   components:
   - type: HumanoidAppearance
     species: Vulpkanin
+  - type: Inventory
+    speciesId: vulpkanin
