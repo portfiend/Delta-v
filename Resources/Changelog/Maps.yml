@@ -93,4 +93,28 @@
   id: 11
   time: '2025-06-14T17:57:11.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/3950
+- author: Radezolid
+  changes:
+  - message: Added materials silos to Shoukou.
+    type: Add
+  - message: Fixed the freezer at Shoukou.
+    type: Fix
+  id: 12
+  time: '2025-06-16T17:53:48.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/3916
+- author: Radezolid
+  changes:
+  - message: Added two thrusters to the front of the syndicate evacuation pod.
+    type: Add
+  id: 13
+  time: '2025-06-16T18:05:18.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/3920
+- author: Field Command
+  changes:
+  - message: 'Midpoint: Added two more exits from Midpoint arrival, one leading to
+      the brig and one leading to medical. Also moved AI to the center of the station.'
+    type: Tweak
+  id: 14
+  time: '2025-07-07T07:04:57.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/3960
 Order: 1
